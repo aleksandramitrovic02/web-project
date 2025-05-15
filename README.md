@@ -1,3 +1,5 @@
+The application was designed to allowusers to browse products, add them to a shopping cart, and simulate asimple checkout process. Technologies": HTML, CSS, JavaScript, JSON.
+
 PODACI ZA PRIJAVU
 ================== ADMINISTRATORI =================
 admin admin
